@@ -1,0 +1,33 @@
+[
+  {
+    "role": "3rd Year Student",
+    "organisation": "Budge Budge Institute of Technology",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": [
+      "Member of the college's coding club",
+      "Participated in hackathons"
+    ],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Class 12",
+    "organisation": "S.E.Rly Mixed Higher Secondary School",
+    "startDate": "Aug, 2019",
+    "endDate": "Aug, 2021",
+    "experiences": [
+      "ISC - ~81% "
+    ],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Class 10",
+    "organisation": "S.E.Rly Mixed Higher Secondary School",
+    "startDate": "Apr, 2019",
+    "endDate": "",
+    "experiences": [
+      "ICSE - ~81% "
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
